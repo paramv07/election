@@ -1,3 +1,3 @@
 election voting system coded in C
-console based application
-open source project
+<br>console based application
+<br>open source project
